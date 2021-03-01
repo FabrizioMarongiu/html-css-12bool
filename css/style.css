@@ -1,0 +1,18 @@
+body{
+    min-height: 100vh;
+    background: linear-gradient(50deg, #00f3ff, #c66fb0);
+}
+
+.box{
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(138, 43, 226, 0.23);
+    border: 3px solid cornflowerblue;
+}
+
+h1,
+h2{
+    text-align: center;
+    color: #315aa4;
+    margin: 2rem 0;
+}
